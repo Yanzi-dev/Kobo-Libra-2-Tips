@@ -26,8 +26,8 @@ You can enable Sideloaded Mode on Kobo e-readers by adding the following code to
 ### Eject your device
 
 When you are done, eject your device from your computer.
-Reboot
-
+Reboot your Kobo Libra 2.
+Et voilà ! Sideload is enabled. The e-reader will not ask you to sign up or to sign in with an account.
 
 ## Once done, what should I do ?
 
